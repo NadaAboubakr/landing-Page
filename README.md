@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/NadaAboubakr/Landing-Page.git
 2. Navigate to the project directory:
    ```bash
-cd portfolio-website
+   cd portfolio-website
 3. Open `index.html` in your web browser to view the site.
 
 ## Contact
