@@ -7,6 +7,7 @@ Welcome to my portfolio website! This site showcases my journey, projects, skill
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#Screenshots)
 - [Installation](#installation)
 - [Contact](#contact)
 
@@ -27,7 +28,13 @@ This portfolio highlights my academic achievements, professional experiences, an
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactivity and dynamic content.
 
+## Screenshots
 
+![Homepage](images/homepage.png)
+*Homepage of the portfolio site*
+
+![Project Page](images/project-page.png)
+*Project details page*
 ## Installation
 
 To run this project locally, follow these steps:
