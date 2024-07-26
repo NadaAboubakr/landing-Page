@@ -33,8 +33,6 @@ This portfolio highlights my academic achievements, professional experiences, an
 ![Homepage](images/homepage.png)
 *Homepage of the portfolio site*
 
-![Project Page](images/project-page.png)
-*Project details page*
 ## Installation
 
 To run this project locally, follow these steps:
