@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio website! This site showcases my journey, projects, skills, and professional experiences as a data scientist and web developer. 
+Welcome to my portfolio website! This site showcases my journey, projects, skills, and professional experiences as a data scientist. 
 
 ## Table of Contents
 
